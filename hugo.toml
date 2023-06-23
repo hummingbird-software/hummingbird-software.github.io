@@ -1,0 +1,13 @@
+baseURL = 'http://hummingbird.ryfow.com/'
+languageCode = 'en-us'
+title = 'Hummingbird Software'
+theme = "hugo-theme-lean-launch-page"
+
+[params]
+  tagline= "Run your AI workloads On Prem with ease"
+  favicon = "images/favicon.png"
+  mailchimpURL= "https://gmail.us21.list-manage.com/subscribe/post?u=c53585300e2ed604d35afede9&amp;id=f529a4e2a0&amp;f_id=0047d5e6f0"
+
+  #linkedin= "https://www.linkedin.com/company/hummingbird-software"
+
+  images = ["favicon.png"]
