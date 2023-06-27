@@ -1,4 +1,4 @@
-baseURL = 'http://hummingbird.ryfow.com/'
+baseURL = 'https://hummingbirdsoftware.net/'
 languageCode = 'en-us'
 title = 'Hummingbird Software'
 theme = "hugo-theme-lean-launch-page"
